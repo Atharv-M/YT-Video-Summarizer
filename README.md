@@ -75,5 +75,9 @@ sequenceDiagram
     S-->>U: Display Summary
 ```
 ---
+📸 Screenshots
+
+
+<img width="1914" height="902" alt="Screenshot 2025-09-06 114859" src="https://github.com/user-attachments/assets/fdbc3ff0-39df-4781-ab1a-76c65ff71c07" />
 
 
