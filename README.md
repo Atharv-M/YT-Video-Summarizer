@@ -59,3 +59,21 @@ flowchart TD
     C --> D[Generate Concise Summary]
     D --> E[Display Summary in Streamlit UI]
 
+```
+---
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant S as Streamlit UI
+    participant T as Transcript Extractor
+    participant L as LangChain + Gemini
+    U->>S: Enter YouTube URL
+    S->>T: Fetch Transcript
+    T-->>S: Return Transcript
+    S->>L: Send Transcript for Summarization
+    L-->>S: Return AI-Generated Summary
+    S-->>U: Display Summary
+```
+---
+
+
