@@ -84,16 +84,45 @@ sequenceDiagram
 
 ---
 ---
-⚡ Getting Started
-✅ Prerequisites
 
-**Python 3.8+Google**
+## ⚡ Getting Started
 
-**Gemini API key**
+### ✅ Prerequisites
+- Python **3.8+**
+- [Google Gemini API Key](https://ai.google.dev/)
+- [Streamlit](https://streamlit.io/)
 
-**Streamlit**
+### 📥 Installation
+Clone the repository and install dependencies:
 
-📥 Installation
+```bash
+git clone https://github.com/Atharv-M/YT-Video-Summarizer.git
+cd YT-Video-Summarizer
+pip install -r requirements.txt
+```
 
 
+### ⚙️ Configuration
 
+1. Create a `.env` file in the root directory.
+2. Add your Gemini API key inside it:
+
+
+```
+GEMINI_API_KEY=your_api_key_here
+```
+
+### ▶️ Usage
+
+Run the Streamlit app with:
+
+```bash
+streamlit run app.py
+```
+
+Now open the app in your browser, paste a **YouTube video URL**, and get the **AI-generated summary** 🎉
+
+👨‍💻 Contact
+
+Author: Atharv M
+GitHub: Atharv-M
