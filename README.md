@@ -122,7 +122,9 @@ streamlit run app.py
 
 Now open the app in your browser, paste a **YouTube video URL**, and get the **AI-generated summary** 🎉
 
-👨‍💻 Contact
+## 👤 Author
 
-Author: Atharv M
-GitHub: Atharv-M
+**Atharv Mishra**
+📧 Email: [mishra17atharv@gmail.com](mailto:mishra17atharv@gmail.com)
+🔗 GitHub: [Atharv-M](https://github.com/Atharv-M)
+🔗 LinkedIn: [Atharv Mishra](https://www.linkedin.com/in/atharv-mishra-ab6b60277/)
