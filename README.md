@@ -1,4 +1,4 @@
-# 🎥 YT-Video-Summarizer
+ # 🎥 YT-Video-Summarizer
 
 A **Generative AI-powered YouTube Video Summarizer** built with **LangChain**, **Google Gemini**, and **Streamlit**.  
 This tool allows users to **paste a YouTube video URL** and instantly generate an **AI-driven summary** of its transcript.  
@@ -81,5 +81,19 @@ sequenceDiagram
 
 
 <img width="1914" height="902" alt="Screenshot 2025-09-06 114859" src="https://github.com/user-attachments/assets/fdbc3ff0-39df-4781-ab1a-76c65ff71c07" />
+
+---
+---
+⚡ Getting Started
+✅ Prerequisites
+
+**Python 3.8+Google**
+
+**Gemini API key**
+
+**Streamlit**
+
+📥 Installation
+
 
 
